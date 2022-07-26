@@ -10,7 +10,7 @@ Section_06　自然言語処理の準備
 
 Section_07　word2vec
 
-Section_08　リカレントニューラルネットワーク（RNN）
+Section_08　再帰型ニューラルネットワーク（RNN）
 
 Section_09　LSTM
 
